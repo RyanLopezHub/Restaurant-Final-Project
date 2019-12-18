@@ -1,7 +1,9 @@
 
 
 h1 {
-    color: ##ff0000;
+    color: #ff0000;
+    background-color: #ffcc80
+    background-size: 500px 90px;
 }
 
 * {
